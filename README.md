@@ -8,3 +8,6 @@ Users can select between four novels, or they can pick their own novel from the 
 <img src = 'Graph of Sense And Sensibility.png' width ='960'>
 <img src = 'Graph of The Adventures Of Sherlock Holmes.png' width ='960'>
 <img src = 'Graph of The History Of Don Quixote.png' width ='960'>
+
+<H2>Disclaimer</H2>  
+Project Gutenberg is a library of over 60,000 ebooks that free to access for all people, it focuses on older works that have expired by U.S. Copyright laws. I claim no ownership of their resources, only for the code I've written and commented on to run this small program.
