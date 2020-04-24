@@ -1,5 +1,5 @@
 # Python_matplot_novel
-This is a simple python application for graphing a novel, to represent the general probabilities of a letter appearing in each novel, thus graphing the prevalence of each letter in the English language.
+alphabet-bar-chart.py is a simple python application for graphing a novel, to represent the general probabilities of a letter appearing in each novel, thus graphing the prevalence of each letter in the English language.
 
 <img src='Python_matplotlib.gif' width='1220'>
 
